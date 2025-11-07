@@ -1,0 +1,7 @@
+INTERNIERE-Häftling-4-Hallo Welt!
+BAUE-Streckbank-SCHREYE
+VOLDERE-Häftling-Streckbank
+UNTERSUCHE-Häftling
+RICHTE-0
+RICHTE-2
+MARSCHIERE-2
